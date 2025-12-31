@@ -48,9 +48,14 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kanonkafi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-</div>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kanonkafi&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+</p>
+
 
 ---
 
