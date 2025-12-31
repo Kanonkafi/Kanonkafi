@@ -47,13 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Kafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanonkafi&show_icons=true&theme=tokyonight)
-
-
-
----
 
 ## 📫 Connect With Me
 - 📧 Email: abdullahilkafi.kanon@gmail.com 
