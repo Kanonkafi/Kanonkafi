@@ -15,7 +15,7 @@
 - 🎨 Passionate about **modern UI & clean design**
 - ⚛️ Focused on **React & Tailwind CSS**
 - 🌱 Currently learning **Node.js & best practices**
-- 🚀 Goal: **Frontend Developer Internship / Job**
+- 🚀 Goal: **Web Developer Internship / Job**
 
 </div>
 
