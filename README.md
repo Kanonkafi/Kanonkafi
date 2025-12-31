@@ -1,50 +1,49 @@
-<h1 align="center">Hi 👋, I'm Kafi</h1>
-<h3 align="center">Frontend Developer | React & Tailwind Enthusiast</h3>
+<div align="center">
 
----
+# <samp>Hi 👋, I'm **Kafi**</samp>
+### <samp>Frontend Developer | React & Tailwind Enthusiast</samp>
 
-## 🚀 About Me
-- 💻 Frontend Developer focused on modern UI
-- 🎨 Love clean, responsive & user-friendly design
-- 🌱 Currently improving React & Node.js skills
-- 🔥 Passionate about building real-world projects
-
----
-
-## 🛠️ Skills & Technologies
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-skyblue?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-
----
-
-## 📌 Featured Projects
-- 🏠 **HomeNest** – Real estate frontend project  
-- 🌿 **EcoDecor** – Modern home decor UI  
-- 🌱 **Plant Care App** – React based UI project  
-
-👉 *More projects coming soon…*
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanonkafi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kanonkafi&repo=HomeNest&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: your-email@gmail.com
-- 💼 GitHub: https://github.com/Kanonkafi
+### 💫 About Me
+<samp>
+- 💻 Specialized in building modern, high-performance web applications.
+- 🎨 Focused on creating <b>Glassmorphic</b> & <b>Responsive</b> UI/UX.
+- 🌱 Mastering Advanced React & Server-side Rendering.
+- 🚀 Turning complex problems into elegant code.
+</samp>
 
 ---
 
-⭐ **Feel free to explore my repositories and give a star!**
+### 🛠️ Tech Stack & Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,vscode" />
+</p>
+
+---
+
+### 📊 Modern Stats Card
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kanonkafi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kanonkafi&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanonkafi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+### 📬 Connect with Me
+<p align="left">
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Kanonkafi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</div>
