@@ -1,49 +1,63 @@
 <div align="center">
 
-# <samp>Hi 👋, I'm **Kafi**</samp>
-### <samp>Frontend Developer | React & Tailwind Enthusiast</samp>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20👋%20I'm%20Kafi&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kanonkafi&repo=HomeNest&theme=tokyonight" />
-</p>
+### 💻 Frontend Developer | React & Tailwind Enthusiast  
+✨ Building clean, modern & user-friendly interfaces
 
----
-
-### 💫 About Me
-<samp>
-- 💻 Specialized in building modern, high-performance web applications.
-- 🎨 Focused on creating <b>Glassmorphic</b> & <b>Responsive</b> UI/UX.
-- 🌱 Mastering Advanced React & Server-side Rendering.
-- 🚀 Turning complex problems into elegant code.
-</samp>
-
----
-
-### 🛠️ Tech Stack & Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,vscode" />
-</p>
-
----
-
-### 📊 Modern Stats Card
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kanonkafi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kanonkafi&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanonkafi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-### 📬 Connect with Me
-<p align="left">
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Kanonkafi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </div>
+
+---
+
+## 🪟 About Me
+<div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:12px;">
+
+- 🎨 Passionate about **modern UI & clean design**
+- ⚛️ Focused on **React & Tailwind CSS**
+- 🌱 Currently learning **Node.js & best practices**
+- 🚀 Goal: **Frontend Developer Internship / Job**
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### Backend (Basic)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+---
+
+## 🧩 Featured Project
+🪟 **care-service-**  
+> A modern real estate frontend UI built with React & Tailwind CSS  
+
+- Clean & responsive layout  
+- Reusable components  
+- Modern UI design  
+
+🚧 *Backend & advanced features planned*
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kanonkafi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+</div>
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: abdullahilkafi.kanon@gmail.com 
+- 🌐 GitHub: https://github.com/Kanonkafi  
+
+---
+
+⭐ *Thanks for visiting my profile!*
