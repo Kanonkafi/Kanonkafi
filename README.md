@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20👋%20I'm%20Kafi&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-### 💻 Frontend Developer | React & Tailwind Enthusiast  
+### 💻 Web Developer | React & Tailwind Enthusiast  
 ✨ Building clean, modern & user-friendly interfaces
 
 </div>
